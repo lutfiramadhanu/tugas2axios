@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "ILhaM",
+      "tempat_tanggal_lahir": "semarang,27-desember-2004",
+      "Sekolah": "Smk N Binus",
+      "Jurusan": "tkj",
+      "Kelas": "tkj2",
+      "id": 0
+    },
+    {
+      "id": 2,
+      "name": "gustav Udin",
+      "tempat_tanggal_lahir": "semarang,28-Februari-2004",
+      "Sekolah": "Smk N Binus",
+      "Jurusan": "tkj",
+      "Kelas": "tkj2"
+    },
+    {
+      "id": 3,
+      "name": "Firin",
+      "tempat_tanggal_lahir": "semarang,29-Februari-2004",
+      "Sekolah": "Smk N Binus",
+      "Jurusan": "Tkj",
+      "Kelas": "tkj2"
+    }
+  ]
+}
